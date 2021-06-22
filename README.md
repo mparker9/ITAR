@@ -1,11 +1,12 @@
 # ITAR
 Information Theory Analysis Representation
 
-<pre>
-Description: These python programs use information theory measures computed using Temporal Information Partitioning Network (TIPNet) to represent the output of this analysis in two different formats. Please see the User Guide for details. 
+
+Description: These python programs use information theory measures computed using Temporal Information Partitioning Network (TIPNet) to represent the output of this analysis in two different formats. Please see the User Guide for details. <br />
 
 ## Documentation
 
+<pre>
 Software required: Matlab, Python, Circos
 
 Install TIPNet: https://github.com/HydroComplexity/TIPNet
