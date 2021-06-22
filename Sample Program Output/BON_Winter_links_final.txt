@@ -1,0 +1,3 @@
+hs1	0	4	hs1	5	9	color=u
+hs1	9	33	hs1	34	58	color=r
+hs1	58	63	hs1	64	69	color=s

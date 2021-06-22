@@ -1,0 +1,1 @@
+hs2	0	6	hs2	7	13	color=u

@@ -1,0 +1,3 @@
+chr	-	hs2	IHR	0	316	IHR
+chr	-	hs3	CHJ	0	353	CHJ
+chr	-	hs4	GCL	0	98	GCL

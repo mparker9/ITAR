@@ -1,0 +1,2 @@
+chr	-	hs2	IHR	0	7	IHR
+chr	-	hs4	GCL	0	5	GCL

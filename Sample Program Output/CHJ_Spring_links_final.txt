@@ -1,0 +1,17 @@
+hs1	0	2	hs1	3	5	color=u
+hs4	0	1	hs4	2	3	color=u
+hs3	0	1	hs3	2	3	color=u
+hs2	0	1	hs2	2	3	color=u
+hs2	3	35	hs2	36	68	color=r
+hs3	3	34	hs1	5	36	color=r
+hs2	68	131	hs1	36	99	color=r
+hs3	34	64	hs3	65	95	color=r
+hs4	3	32	hs1	99	128	color=r
+hs2	131	188	hs4	32	89	color=r
+hs4	89	117	hs3	95	123	color=r
+hs4	117	123	hs3	123	129	color=s
+hs3	129	134	hs1	128	133	color=s
+hs2	188	198	hs1	133	143	color=s
+hs4	123	128	hs1	143	148	color=s
+hs3	134	139	hs3	140	145	color=s
+hs2	198	207	hs4	128	137	color=s

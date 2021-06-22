@@ -1,0 +1,7 @@
+hs4	0	1	hs4	2	3	color=u
+hs3	0	1	hs3	2	3	color=u
+hs2	0	1	hs2	2	3	color=u
+hs3	3	34	hs2	3	34	color=r
+hs4	3	32	hs3	34	63	color=r
+hs3	63	68	hs2	34	39	color=s
+hs4	32	36	hs3	68	72	color=s

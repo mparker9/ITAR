@@ -1,0 +1,2 @@
+chr	-	hs1	BON	0	3	BON
+chr	-	hs3	CHJ	0	3	CHJ

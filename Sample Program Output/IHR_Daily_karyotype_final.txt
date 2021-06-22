@@ -1,0 +1,4 @@
+chr	-	hs1	BON	0	46	BON
+chr	-	hs2	IHR	0	62	IHR
+chr	-	hs3	CHJ	0	59	CHJ
+chr	-	hs4	GCL	0	40	GCL

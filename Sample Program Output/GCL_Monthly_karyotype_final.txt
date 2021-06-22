@@ -1,0 +1,2 @@
+chr	-	hs1	BON	0	15	BON
+chr	-	hs4	GCL	0	19	GCL
